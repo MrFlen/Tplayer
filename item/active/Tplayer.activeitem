@@ -1,0 +1,14 @@
+{
+  "itemName" : "Tplayer",
+  "shortdescription" : "Teleporter",
+  "description" : "Warp to ship",
+  "price" : 44,
+  "maxStack" : 1,
+  "rarity" : "essential",
+  "category" : "Console",
+  "twoHanded" : true,
+  "itemTags" : ["tool"],
+  "inventoryIcon" : "Tplayer.png",
+  "animation" : "Tplayer.animation",
+  "scripts" : ["Tplayer.lua"]
+}

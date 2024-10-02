@@ -1,0 +1,13 @@
+{
+  "currencyInputs" : {
+    "money" : 1
+  },
+  "input" : [
+    { "item" : "teleportercore", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "Tplayer",
+    "count" : 1
+  },
+  "groups" : [ "teleshop" ]
+}
