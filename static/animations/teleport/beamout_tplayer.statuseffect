@@ -1,0 +1,16 @@
+{
+  "name" : "beamout_tplayer",
+  "effectConfig" : {
+    "speciesTags" : {
+      "penguin" : "penguin"
+    },
+    "triggerTime" : 1.01
+  },
+  "defaultDuration" : 1.5,
+
+  "scripts" : [
+    "/interface/scripted/beamout_tplayer.lua"
+  ],
+
+  "animationConfig": "beamout_tplayer.animation"
+}

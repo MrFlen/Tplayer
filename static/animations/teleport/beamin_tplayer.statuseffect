@@ -1,0 +1,15 @@
+{
+  "name": "beamin_tplayer",
+  "effectConfig": {
+    "speciesTags": {
+      "penguin": "penguin"
+    }
+  },
+  "defaultDuration": 1.0,
+
+  "scripts": [
+    "/interface/scripted/beamin_tplayer.lua"
+  ],
+
+  "animationConfig": "beamin_tplayer.animation"
+}

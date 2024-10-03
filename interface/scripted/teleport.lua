@@ -1,4 +1,4 @@
 function beamup()
-  -- Логика для телепортации игрока на корабль
   player.warp("OwnShip")
+  status.addEphemeralEffect("beamout_tplayer")
 end

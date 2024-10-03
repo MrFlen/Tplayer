@@ -8,7 +8,7 @@
   "category" : "Console",
   "twoHanded" : true,
   "itemTags" : ["tool"],
-  "inventoryIcon" : "Tplayer.png",
-  "animation" : "Tplayer.animation",
+  "inventoryIcon" : "/static/images/items/Tplayer.png",
+  "animation" : "/static/animations/items/Tplayer.animation",
   "scripts" : ["Tplayer.lua"]
 }
